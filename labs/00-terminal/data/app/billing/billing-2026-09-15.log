@@ -1,0 +1,302 @@
+2026-09-15T00:01:17 [WARN] billing: cache miss storm
+2026-09-15T00:02:43 [INFO] billing: request completed
+2026-09-15T00:03:52 [INFO] billing: user logged in
+2026-09-15T00:04:59 [DEBUG] billing: span started
+2026-09-15T00:06:47 [INFO] billing: request completed
+2026-09-15T00:08:31 [INFO] billing: user logged in
+2026-09-15T00:08:53 [INFO] billing: request completed
+2026-09-15T00:10:34 [WARN] billing: cache miss storm
+2026-09-15T00:11:39 [INFO] billing: request completed
+2026-09-15T00:13:27 [WARN] billing: retrying request
+2026-09-15T00:14:21 [INFO] billing: job finished
+2026-09-15T00:17:13 [DEBUG] billing: span started
+2026-09-15T00:20:08 [INFO] billing: job finished
+2026-09-15T00:21:54 [DEBUG] billing: span started
+2026-09-15T00:24:07 [INFO] billing: connected to db
+2026-09-15T00:27:15 [INFO] billing: user logged in
+2026-09-15T00:30:24 [INFO] billing: request completed
+2026-09-15T00:32:59 [INFO] billing: connected to db
+2026-09-15T00:34:09 [INFO] billing: user logged in
+2026-09-15T00:34:45 [INFO] billing: connected to db
+2026-09-15T00:36:09 [INFO] billing: user logged in
+2026-09-15T00:38:47 [INFO] billing: connected to db
+2026-09-15T00:39:22 [WARN] billing: cache miss storm
+2026-09-15T00:42:30 [ERROR] billing: timeout calling inventory
+2026-09-15T00:45:49 [INFO] billing: request completed
+2026-09-15T00:48:24 [ERROR] billing: failed to charge card
+2026-09-15T00:50:59 [INFO] billing: connected to db
+2026-09-15T00:53:03 [INFO] billing: connected to db
+2026-09-15T00:55:59 [INFO] billing: request completed
+2026-09-15T00:56:43 [INFO] billing: cache hit
+2026-09-15T00:59:56 [DEBUG] billing: headers ok
+2026-09-15T01:02:47 [INFO] billing: job finished
+2026-09-15T01:05:14 [INFO] billing: user logged in
+2026-09-15T01:06:15 [INFO] billing: cache hit
+2026-09-15T01:09:35 [INFO] billing: request completed
+2026-09-15T01:12:35 [INFO] billing: job finished
+2026-09-15T01:12:52 [INFO] billing: cache hit
+2026-09-15T01:14:15 [INFO] billing: request completed
+2026-09-15T01:14:31 [WARN] billing: retrying request
+2026-09-15T01:16:39 [DEBUG] billing: payload parsed
+2026-09-15T01:17:57 [INFO] billing: job finished
+2026-09-15T01:21:10 [INFO] billing: request completed
+2026-09-15T01:24:22 [INFO] billing: connected to db
+2026-09-15T01:25:31 [INFO] billing: request completed
+2026-09-15T01:26:53 [INFO] billing: user logged in
+2026-09-15T01:27:05 [INFO] billing: cache hit
+2026-09-15T01:27:18 [INFO] billing: cache hit
+2026-09-15T01:29:32 [DEBUG] billing: payload parsed
+2026-09-15T01:30:59 [WARN] billing: cache miss storm
+2026-09-15T01:32:05 [DEBUG] billing: headers ok
+2026-09-15T01:32:38 [INFO] billing: user logged in
+2026-09-15T01:34:07 [INFO] billing: cache hit
+2026-09-15T01:36:21 [INFO] billing: job finished
+2026-09-15T01:36:32 [INFO] billing: request completed
+2026-09-15T01:36:42 [INFO] billing: job finished
+2026-09-15T01:37:09 [INFO] billing: job finished
+2026-09-15T01:37:59 [INFO] billing: job finished
+2026-09-15T01:39:35 [INFO] billing: cache hit
+2026-09-15T01:39:50 [INFO] billing: cache hit
+2026-09-15T01:41:59 [INFO] billing: connected to db
+2026-09-15T01:43:52 [INFO] billing: user logged in
+2026-09-15T01:46:26 [DEBUG] billing: span started
+2026-09-15T01:49:14 [DEBUG] billing: span started
+2026-09-15T01:52:25 [INFO] billing: job finished
+2026-09-15T01:52:42 [INFO] billing: user logged in
+2026-09-15T01:53:22 [INFO] billing: user logged in
+2026-09-15T01:56:39 [INFO] billing: user logged in
+2026-09-15T01:58:53 [INFO] billing: request completed
+2026-09-15T02:01:39 [INFO] billing: request completed
+2026-09-15T02:04:09 [INFO] billing: connected to db
+2026-09-15T02:05:49 [INFO] billing: connected to db
+2026-09-15T02:06:05 [INFO] billing: cache hit
+2026-09-15T02:06:32 [INFO] billing: request completed
+2026-09-15T02:08:49 [INFO] billing: request completed
+2026-09-15T02:09:08 [INFO] billing: cache hit
+2026-09-15T02:10:00 [DEBUG] billing: headers ok
+2026-09-15T02:11:15 [INFO] billing: user logged in
+2026-09-15T02:13:34 [INFO] billing: request completed
+2026-09-15T02:15:59 [INFO] billing: user logged in
+2026-09-15T02:18:16 [INFO] billing: user logged in
+2026-09-15T02:18:59 [INFO] billing: job finished
+2026-09-15T02:20:01 [INFO] billing: cache hit
+2026-09-15T02:22:19 [INFO] billing: request completed
+2026-09-15T02:24:45 [INFO] billing: user logged in
+2026-09-15T02:27:22 [INFO] billing: user logged in
+2026-09-15T02:28:03 [DEBUG] billing: payload parsed
+2026-09-15T02:31:09 [DEBUG] billing: payload parsed
+2026-09-15T02:32:34 [INFO] billing: job finished
+2026-09-15T02:34:12 [WARN] billing: cache miss storm
+2026-09-15T02:35:28 [INFO] billing: cache hit
+2026-09-15T02:37:56 [INFO] billing: cache hit
+2026-09-15T02:40:48 [INFO] billing: connected to db
+2026-09-15T02:41:12 [ERROR] billing: failed to charge card
+2026-09-15T02:41:52 [INFO] billing: cache hit
+2026-09-15T02:44:40 [INFO] billing: job finished
+2026-09-15T02:47:50 [INFO] billing: user logged in
+2026-09-15T02:48:25 [INFO] billing: user logged in
+2026-09-15T02:50:06 [INFO] billing: user logged in
+2026-09-15T02:51:14 [INFO] billing: request completed
+2026-09-15T02:53:57 [INFO] billing: user logged in
+2026-09-15T02:54:24 [INFO] billing: job finished
+2026-09-15T02:55:06 [WARN] billing: slow query took 2300ms
+2026-09-15T02:56:08 [ERROR] billing: timeout calling inventory
+2026-09-15T02:56:36 [INFO] billing: user logged in
+2026-09-15T02:58:51 [INFO] billing: cache hit
+2026-09-15T03:01:29 [INFO] billing: user logged in
+2026-09-15T03:04:19 [INFO] billing: cache hit
+2026-09-15T03:05:25 [INFO] billing: job finished
+2026-09-15T03:06:48 [INFO] billing: cache hit
+2026-09-15T03:07:22 [INFO] billing: job finished
+2026-09-15T03:10:32 [INFO] billing: cache hit
+2026-09-15T03:13:39 [INFO] billing: job finished
+2026-09-15T03:16:33 [INFO] billing: user logged in
+2026-09-15T03:19:14 [INFO] billing: request completed
+2026-09-15T03:19:57 [INFO] billing: job finished
+2026-09-15T03:22:52 [INFO] billing: user logged in
+2026-09-15T03:25:30 [INFO] billing: request completed
+2026-09-15T03:27:08 [INFO] billing: connected to db
+2026-09-15T03:29:25 [INFO] billing: connected to db
+2026-09-15T03:31:22 [INFO] billing: connected to db
+2026-09-15T03:34:28 [INFO] billing: request completed
+2026-09-15T03:34:40 [INFO] billing: job finished
+2026-09-15T03:35:04 [INFO] billing: user logged in
+2026-09-15T03:37:22 [INFO] billing: connected to db
+2026-09-15T03:39:41 [INFO] billing: request completed
+2026-09-15T03:40:12 [INFO] billing: job finished
+2026-09-15T03:40:41 [INFO] billing: request completed
+2026-09-15T03:41:36 [INFO] billing: cache hit
+2026-09-15T03:42:49 [ERROR] billing: connection refused: db:5432
+2026-09-15T03:45:00 [INFO] billing: job finished
+2026-09-15T03:45:14 [WARN] billing: cache miss storm
+2026-09-15T03:46:19 [WARN] billing: retrying request
+2026-09-15T03:48:35 [INFO] billing: request completed
+2026-09-15T03:50:23 [DEBUG] billing: headers ok
+2026-09-15T03:52:44 [INFO] billing: request completed
+2026-09-15T03:53:39 [INFO] billing: connected to db
+2026-09-15T03:56:09 [INFO] billing: job finished
+2026-09-15T03:57:51 [INFO] billing: job finished
+2026-09-15T03:58:42 [INFO] billing: connected to db
+2026-09-15T03:58:59 [INFO] billing: user logged in
+2026-09-15T03:59:48 [DEBUG] billing: headers ok
+2026-09-15T04:01:01 [INFO] billing: job finished
+2026-09-15T04:01:40 [INFO] billing: cache hit
+2026-09-15T04:02:07 [ERROR] billing: failed to charge card
+2026-09-15T04:03:06 [INFO] billing: cache hit
+2026-09-15T04:04:54 [INFO] billing: cache hit
+2026-09-15T04:06:51 [INFO] billing: job finished
+2026-09-15T04:08:33 [INFO] billing: job finished
+2026-09-15T04:09:35 [DEBUG] billing: headers ok
+2026-09-15T04:12:07 [INFO] billing: connected to db
+2026-09-15T04:14:24 [INFO] billing: job finished
+2026-09-15T04:15:33 [INFO] billing: request completed
+2026-09-15T04:16:56 [INFO] billing: connected to db
+2026-09-15T04:20:13 [INFO] billing: request completed
+2026-09-15T04:21:28 [DEBUG] billing: span started
+2026-09-15T04:24:11 [INFO] billing: request completed
+2026-09-15T04:25:45 [INFO] billing: cache hit
+2026-09-15T04:27:12 [ERROR] billing: failed to charge card
+2026-09-15T04:29:26 [INFO] billing: request completed
+2026-09-15T04:32:15 [WARN] billing: cache miss storm
+2026-09-15T04:34:30 [INFO] billing: cache hit
+2026-09-15T04:36:38 [WARN] billing: slow query took 2300ms
+2026-09-15T04:37:36 [INFO] billing: job finished
+2026-09-15T04:39:21 [INFO] billing: user logged in
+2026-09-15T04:42:19 [INFO] billing: cache hit
+2026-09-15T04:45:02 [WARN] billing: slow query took 2300ms
+2026-09-15T04:47:17 [INFO] billing: cache hit
+2026-09-15T04:49:58 [INFO] billing: cache hit
+2026-09-15T04:50:35 [INFO] billing: connected to db
+2026-09-15T04:52:56 [WARN] billing: retrying request
+2026-09-15T04:54:20 [INFO] billing: user logged in
+2026-09-15T04:56:09 [INFO] billing: job finished
+2026-09-15T04:59:13 [WARN] billing: retrying request
+2026-09-15T05:00:17 [WARN] billing: cache miss storm
+2026-09-15T05:02:39 [ERROR] billing: timeout calling inventory
+2026-09-15T05:03:11 [INFO] billing: job finished
+2026-09-15T05:04:28 [WARN] billing: slow query took 2300ms
+2026-09-15T05:06:50 [INFO] billing: user logged in
+2026-09-15T05:09:17 [INFO] billing: cache hit
+2026-09-15T05:12:15 [INFO] billing: user logged in
+2026-09-15T05:15:12 [INFO] billing: cache hit
+2026-09-15T05:16:17 [WARN] billing: cache miss storm
+2026-09-15T05:16:54 [ERROR] billing: connection refused: db:5432
+2026-09-15T05:19:43 [INFO] billing: job finished
+2026-09-15T05:22:14 [INFO] billing: user logged in
+2026-09-15T05:24:51 [DEBUG] billing: headers ok
+2026-09-15T05:26:15 [WARN] billing: retrying request
+2026-09-15T05:29:19 [ERROR] billing: failed to charge card
+2026-09-15T05:32:13 [WARN] billing: retrying request
+2026-09-15T05:32:59 [DEBUG] billing: headers ok
+2026-09-15T05:35:49 [INFO] billing: user logged in
+2026-09-15T05:37:56 [WARN] billing: slow query took 2300ms
+2026-09-15T05:40:44 [INFO] billing: job finished
+2026-09-15T05:43:53 [INFO] billing: job finished
+2026-09-15T05:44:20 [INFO] billing: user logged in
+2026-09-15T05:45:29 [INFO] billing: cache hit
+2026-09-15T05:46:53 [INFO] billing: request completed
+2026-09-15T05:47:43 [WARN] billing: retrying request
+2026-09-15T05:48:29 [DEBUG] billing: headers ok
+2026-09-15T05:51:06 [INFO] billing: job finished
+2026-09-15T05:52:12 [INFO] billing: job finished
+2026-09-15T05:54:21 [INFO] billing: user logged in
+2026-09-15T05:56:58 [DEBUG] billing: headers ok
+2026-09-15T05:58:03 [ERROR] billing: timeout calling inventory
+2026-09-15T05:58:38 [INFO] billing: job finished
+2026-09-15T05:59:02 [WARN] billing: retrying request
+2026-09-15T05:59:25 [INFO] billing: user logged in
+2026-09-15T06:00:57 [DEBUG] billing: headers ok
+2026-09-15T06:01:58 [INFO] billing: cache hit
+2026-09-15T06:03:15 [WARN] billing: retrying request
+2026-09-15T06:04:20 [INFO] billing: job finished
+2026-09-15T09:41:07 [ERROR] billing: java.lang.OutOfMemoryError: Java heap space
+2026-09-15T06:05:39 [INFO] billing: user logged in
+2026-09-15T06:07:01 [INFO] billing: job finished
+2026-09-15T06:07:18 [INFO] billing: cache hit
+2026-09-15T06:10:35 [INFO] billing: job finished
+2026-09-15T06:12:19 [INFO] billing: connected to db
+2026-09-15T06:14:07 [ERROR] billing: timeout calling inventory
+2026-09-15T06:17:22 [DEBUG] billing: headers ok
+2026-09-15T06:20:12 [INFO] billing: job finished
+2026-09-15T06:21:01 [INFO] billing: user logged in
+2026-09-15T06:21:14 [INFO] billing: request completed
+2026-09-15T06:21:29 [DEBUG] billing: headers ok
+2026-09-15T06:22:24 [INFO] billing: cache hit
+2026-09-15T06:22:49 [INFO] billing: cache hit
+2026-09-15T06:23:46 [ERROR] billing: connection refused: db:5432
+2026-09-15T06:24:59 [INFO] billing: cache hit
+2026-09-15T06:26:37 [INFO] billing: connected to db
+2026-09-15T06:27:21 [INFO] billing: cache hit
+2026-09-15T06:28:56 [WARN] billing: slow query took 2300ms
+2026-09-15T06:31:29 [INFO] billing: request completed
+2026-09-15T06:31:47 [DEBUG] billing: payload parsed
+2026-09-15T06:34:22 [INFO] billing: connected to db
+2026-09-15T06:35:26 [DEBUG] billing: payload parsed
+2026-09-15T06:38:31 [DEBUG] billing: span started
+2026-09-15T06:40:43 [DEBUG] billing: headers ok
+2026-09-15T06:43:24 [INFO] billing: cache hit
+2026-09-15T06:44:41 [INFO] billing: job finished
+2026-09-15T06:47:51 [INFO] billing: user logged in
+2026-09-15T06:48:51 [ERROR] billing: failed to charge card
+2026-09-15T06:49:05 [INFO] billing: user logged in
+2026-09-15T06:51:35 [WARN] billing: cache miss storm
+2026-09-15T06:52:02 [INFO] billing: user logged in
+2026-09-15T06:55:11 [DEBUG] billing: headers ok
+2026-09-15T06:56:02 [INFO] billing: connected to db
+2026-09-15T06:57:30 [INFO] billing: request completed
+2026-09-15T07:00:50 [WARN] billing: slow query took 2300ms
+2026-09-15T07:02:26 [ERROR] billing: timeout calling inventory
+2026-09-15T07:04:43 [INFO] billing: user logged in
+2026-09-15T07:07:53 [INFO] billing: job finished
+2026-09-15T07:10:50 [ERROR] billing: failed to charge card
+2026-09-15T07:12:01 [INFO] billing: job finished
+2026-09-15T07:13:43 [DEBUG] billing: headers ok
+2026-09-15T07:16:37 [INFO] billing: user logged in
+2026-09-15T07:18:30 [INFO] billing: job finished
+2026-09-15T07:20:36 [INFO] billing: request completed
+2026-09-15T07:23:12 [DEBUG] billing: headers ok
+2026-09-15T07:23:33 [INFO] billing: cache hit
+2026-09-15T07:25:22 [INFO] billing: user logged in
+2026-09-15T07:28:04 [INFO] billing: connected to db
+2026-09-15T07:29:00 [INFO] billing: request completed
+2026-09-15T07:30:00 [INFO] billing: user logged in
+2026-09-15T07:32:10 [INFO] billing: connected to db
+2026-09-15T07:34:44 [INFO] billing: connected to db
+2026-09-15T07:34:59 [INFO] billing: cache hit
+2026-09-15T07:37:21 [INFO] billing: job finished
+2026-09-15T07:40:29 [WARN] billing: retrying request
+2026-09-15T07:41:17 [INFO] billing: cache hit
+2026-09-15T07:44:16 [INFO] billing: user logged in
+2026-09-15T07:46:17 [INFO] billing: job finished
+2026-09-15T07:49:11 [INFO] billing: user logged in
+2026-09-15T07:50:08 [INFO] billing: connected to db
+2026-09-15T07:51:51 [INFO] billing: connected to db
+2026-09-15T07:53:19 [INFO] billing: job finished
+2026-09-15T07:54:04 [INFO] billing: connected to db
+2026-09-15T07:55:30 [DEBUG] billing: headers ok
+2026-09-15T07:57:11 [INFO] billing: user logged in
+2026-09-15T07:58:39 [INFO] billing: cache hit
+2026-09-15T08:00:16 [WARN] billing: slow query took 2300ms
+2026-09-15T08:00:44 [ERROR] billing: connection refused: db:5432
+2026-09-15T08:03:42 [INFO] billing: user logged in
+2026-09-15T08:06:45 [INFO] billing: job finished
+2026-09-15T08:07:25 [INFO] billing: job finished
+2026-09-15T08:10:38 [INFO] billing: connected to db
+2026-09-15T08:12:40 [INFO] billing: cache hit
+2026-09-15T08:13:23 [INFO] billing: request completed
+2026-09-15T08:15:04 [ERROR] billing: failed to charge card
+2026-09-15T08:16:09 [INFO] billing: user logged in
+2026-09-15T08:18:03 [DEBUG] billing: payload parsed
+2026-09-15T08:20:02 [DEBUG] billing: span started
+2026-09-15T08:22:04 [INFO] billing: request completed
+2026-09-15T08:24:04 [DEBUG] billing: span started
+2026-09-15T08:27:17 [INFO] billing: cache hit
+2026-09-15T08:29:21 [ERROR] billing: failed to charge card
+2026-09-15T08:30:30 [INFO] billing: user logged in
+2026-09-15T08:31:09 [WARN] billing: slow query took 2300ms
+2026-09-15T08:32:34 [INFO] billing: cache hit
+2026-09-15T08:34:11 [DEBUG] billing: span started
+2026-09-15T08:37:14 [INFO] billing: job finished
+2026-09-15T08:40:18 [INFO] billing: user logged in
+2026-09-15T08:42:53 [INFO] billing: job finished
+2026-09-15T08:44:54 [DEBUG] billing: headers ok

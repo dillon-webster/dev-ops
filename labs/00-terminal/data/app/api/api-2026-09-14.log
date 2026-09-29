@@ -1,0 +1,359 @@
+2026-09-14T00:02:17 [INFO] api: user logged in
+2026-09-14T00:03:50 [INFO] api: cache hit
+2026-09-14T00:04:41 [INFO] api: job finished
+2026-09-14T00:07:34 [INFO] api: request completed
+2026-09-14T00:08:34 [DEBUG] api: payload parsed
+2026-09-14T00:09:59 [INFO] api: request completed
+2026-09-14T00:10:57 [INFO] api: cache hit
+2026-09-14T00:11:46 [INFO] api: job finished
+2026-09-14T00:12:51 [INFO] api: connected to db
+2026-09-14T00:15:28 [INFO] api: connected to db
+2026-09-14T00:16:43 [INFO] api: job finished
+2026-09-14T00:17:31 [INFO] api: connected to db
+2026-09-14T00:20:13 [INFO] api: user logged in
+2026-09-14T00:21:46 [WARN] api: slow query took 2300ms
+2026-09-14T00:24:11 [INFO] api: connected to db
+2026-09-14T00:26:00 [INFO] api: user logged in
+2026-09-14T00:26:17 [INFO] api: user logged in
+2026-09-14T00:27:41 [INFO] api: job finished
+2026-09-14T00:28:20 [INFO] api: cache hit
+2026-09-14T00:29:38 [INFO] api: user logged in
+2026-09-14T00:30:52 [INFO] api: user logged in
+2026-09-14T00:31:06 [INFO] api: cache hit
+2026-09-14T00:34:17 [INFO] api: cache hit
+2026-09-14T00:34:38 [DEBUG] api: span started
+2026-09-14T00:36:37 [ERROR] api: connection refused: db:5432
+2026-09-14T00:37:21 [INFO] api: request completed
+2026-09-14T00:38:10 [INFO] api: user logged in
+2026-09-14T00:40:40 [INFO] api: user logged in
+2026-09-14T00:42:45 [INFO] api: cache hit
+2026-09-14T00:45:45 [INFO] api: job finished
+2026-09-14T00:48:58 [ERROR] api: failed to charge card
+2026-09-14T00:49:50 [INFO] api: cache hit
+2026-09-14T00:52:53 [INFO] api: job finished
+2026-09-14T00:53:14 [INFO] api: cache hit
+2026-09-14T00:55:59 [WARN] api: retrying request
+2026-09-14T00:56:12 [INFO] api: request completed
+2026-09-14T00:59:29 [INFO] api: cache hit
+2026-09-14T01:00:56 [WARN] api: slow query took 2300ms
+2026-09-14T01:02:53 [DEBUG] api: payload parsed
+2026-09-14T01:03:38 [INFO] api: cache hit
+2026-09-14T01:06:32 [INFO] api: cache hit
+2026-09-14T01:09:15 [INFO] api: request completed
+2026-09-14T01:11:30 [INFO] api: connected to db
+2026-09-14T01:14:40 [INFO] api: connected to db
+2026-09-14T01:17:12 [WARN] api: slow query took 2300ms
+2026-09-14T01:19:33 [ERROR] api: failed to charge card
+2026-09-14T01:22:08 [INFO] api: request completed
+2026-09-14T01:24:39 [INFO] api: cache hit
+2026-09-14T01:25:46 [INFO] api: cache hit
+2026-09-14T01:27:26 [INFO] api: cache hit
+2026-09-14T01:28:38 [INFO] api: cache hit
+2026-09-14T01:31:26 [INFO] api: user logged in
+2026-09-14T01:34:04 [INFO] api: user logged in
+2026-09-14T01:36:35 [INFO] api: cache hit
+2026-09-14T01:39:18 [INFO] api: job finished
+2026-09-14T01:41:42 [INFO] api: job finished
+2026-09-14T01:41:55 [WARN] api: slow query took 2300ms
+2026-09-14T01:42:06 [INFO] api: cache hit
+2026-09-14T01:44:15 [INFO] api: connected to db
+2026-09-14T01:44:57 [INFO] api: cache hit
+2026-09-14T01:45:34 [INFO] api: connected to db
+2026-09-14T01:47:12 [INFO] api: user logged in
+2026-09-14T01:49:28 [INFO] api: cache hit
+2026-09-14T01:52:16 [DEBUG] api: span started
+2026-09-14T01:53:35 [ERROR] api: timeout calling inventory
+2026-09-14T01:56:14 [INFO] api: cache hit
+2026-09-14T01:57:05 [INFO] api: user logged in
+2026-09-14T01:59:05 [INFO] api: job finished
+2026-09-14T01:59:25 [DEBUG] api: headers ok
+2026-09-14T02:01:58 [INFO] api: request completed
+2026-09-14T02:04:37 [INFO] api: request completed
+2026-09-14T02:05:02 [INFO] api: request completed
+2026-09-14T02:07:39 [INFO] api: request completed
+2026-09-14T02:09:41 [WARN] api: retrying request
+2026-09-14T02:12:16 [INFO] api: job finished
+2026-09-14T02:14:05 [INFO] api: cache hit
+2026-09-14T02:16:39 [INFO] api: cache hit
+2026-09-14T02:19:10 [INFO] api: connected to db
+2026-09-14T02:20:17 [DEBUG] api: payload parsed
+2026-09-14T02:22:20 [INFO] api: cache hit
+2026-09-14T02:25:04 [ERROR] api: connection refused: db:5432
+2026-09-14T02:26:45 [DEBUG] api: payload parsed
+2026-09-14T02:29:55 [ERROR] api: connection refused: db:5432
+2026-09-14T02:32:10 [ERROR] api: failed to charge card
+2026-09-14T02:34:59 [WARN] api: retrying request
+2026-09-14T02:35:48 [INFO] api: job finished
+2026-09-14T02:38:50 [INFO] api: connected to db
+2026-09-14T02:40:45 [INFO] api: connected to db
+2026-09-14T02:42:06 [INFO] api: cache hit
+2026-09-14T02:42:18 [INFO] api: job finished
+2026-09-14T02:45:32 [INFO] api: request completed
+2026-09-14T02:46:57 [INFO] api: request completed
+2026-09-14T02:47:49 [INFO] api: request completed
+2026-09-14T02:48:10 [WARN] api: cache miss storm
+2026-09-14T02:48:25 [ERROR] api: failed to charge card
+2026-09-14T02:50:30 [ERROR] api: failed to charge card
+2026-09-14T02:53:45 [INFO] api: user logged in
+2026-09-14T02:55:57 [INFO] api: cache hit
+2026-09-14T02:57:05 [INFO] api: cache hit
+2026-09-14T02:57:19 [INFO] api: job finished
+2026-09-14T03:00:05 [ERROR] api: failed to charge card
+2026-09-14T03:02:04 [ERROR] api: connection refused: db:5432
+2026-09-14T03:04:22 [INFO] api: connected to db
+2026-09-14T03:06:58 [INFO] api: request completed
+2026-09-14T03:07:20 [DEBUG] api: headers ok
+2026-09-14T03:07:37 [INFO] api: user logged in
+2026-09-14T03:09:59 [DEBUG] api: span started
+2026-09-14T03:11:16 [ERROR] api: timeout calling inventory
+2026-09-14T03:12:04 [INFO] api: user logged in
+2026-09-14T03:15:11 [INFO] api: job finished
+2026-09-14T03:18:11 [INFO] api: job finished
+2026-09-14T03:20:46 [INFO] api: user logged in
+2026-09-14T03:21:56 [INFO] api: connected to db
+2026-09-14T03:24:01 [DEBUG] api: span started
+2026-09-14T03:27:20 [INFO] api: user logged in
+2026-09-14T03:27:52 [INFO] api: cache hit
+2026-09-14T03:29:24 [DEBUG] api: headers ok
+2026-09-14T03:31:09 [INFO] api: connected to db
+2026-09-14T03:33:15 [INFO] api: connected to db
+2026-09-14T03:35:57 [INFO] api: request completed
+2026-09-14T03:36:21 [WARN] api: slow query took 2300ms
+2026-09-14T03:37:37 [INFO] api: connected to db
+2026-09-14T03:40:50 [INFO] api: job finished
+2026-09-14T03:41:03 [DEBUG] api: span started
+2026-09-14T03:41:51 [INFO] api: user logged in
+2026-09-14T03:42:11 [WARN] api: retrying request
+2026-09-14T03:43:31 [INFO] api: job finished
+2026-09-14T03:44:10 [DEBUG] api: span started
+2026-09-14T03:47:02 [WARN] api: cache miss storm
+2026-09-14T03:48:09 [ERROR] api: failed to charge card
+2026-09-14T03:51:01 [INFO] api: connected to db
+2026-09-14T03:52:46 [INFO] api: request completed
+2026-09-14T03:56:06 [INFO] api: user logged in
+2026-09-14T03:56:47 [INFO] api: connected to db
+2026-09-14T03:59:24 [WARN] api: cache miss storm
+2026-09-14T04:02:13 [DEBUG] api: span started
+2026-09-14T04:04:18 [INFO] api: request completed
+2026-09-14T04:05:14 [INFO] api: user logged in
+2026-09-14T04:05:42 [ERROR] api: connection refused: db:5432
+2026-09-14T04:07:54 [INFO] api: job finished
+2026-09-14T04:09:27 [INFO] api: request completed
+2026-09-14T04:10:32 [INFO] api: job finished
+2026-09-14T04:11:58 [WARN] api: cache miss storm
+2026-09-14T04:13:45 [WARN] api: cache miss storm
+2026-09-14T04:14:09 [INFO] api: connected to db
+2026-09-14T04:16:23 [INFO] api: request completed
+2026-09-14T04:18:14 [INFO] api: request completed
+2026-09-14T04:20:46 [DEBUG] api: payload parsed
+2026-09-14T04:21:17 [INFO] api: connected to db
+2026-09-14T04:21:49 [DEBUG] api: payload parsed
+2026-09-14T04:22:39 [INFO] api: job finished
+2026-09-14T04:25:43 [INFO] api: request completed
+2026-09-14T04:25:59 [INFO] api: cache hit
+2026-09-14T04:26:41 [ERROR] api: timeout calling inventory
+2026-09-14T04:29:39 [ERROR] api: failed to charge card
+2026-09-14T04:31:52 [INFO] api: cache hit
+2026-09-14T04:33:10 [DEBUG] api: headers ok
+2026-09-14T04:36:17 [INFO] api: user logged in
+2026-09-14T04:36:36 [WARN] api: retrying request
+2026-09-14T04:37:53 [INFO] api: job finished
+2026-09-14T04:40:30 [INFO] api: job finished
+2026-09-14T04:42:42 [DEBUG] api: payload parsed
+2026-09-14T04:45:36 [INFO] api: request completed
+2026-09-14T04:48:09 [INFO] api: cache hit
+2026-09-14T04:49:45 [WARN] api: slow query took 2300ms
+2026-09-14T04:52:01 [DEBUG] api: payload parsed
+2026-09-14T04:52:18 [WARN] api: cache miss storm
+2026-09-14T04:54:23 [INFO] api: connected to db
+2026-09-14T04:57:30 [INFO] api: job finished
+2026-09-14T04:59:11 [INFO] api: user logged in
+2026-09-14T05:00:13 [INFO] api: user logged in
+2026-09-14T05:02:13 [INFO] api: user logged in
+2026-09-14T05:03:31 [DEBUG] api: payload parsed
+2026-09-14T05:05:38 [INFO] api: request completed
+2026-09-14T05:06:01 [INFO] api: connected to db
+2026-09-14T05:09:13 [INFO] api: job finished
+2026-09-14T05:11:26 [INFO] api: request completed
+2026-09-14T05:12:00 [WARN] api: slow query took 2300ms
+2026-09-14T05:13:17 [DEBUG] api: span started
+2026-09-14T05:15:21 [WARN] api: slow query took 2300ms
+2026-09-14T05:15:56 [INFO] api: request completed
+2026-09-14T05:16:52 [INFO] api: job finished
+2026-09-14T05:20:04 [INFO] api: cache hit
+2026-09-14T05:20:22 [INFO] api: cache hit
+2026-09-14T05:21:16 [INFO] api: request completed
+2026-09-14T05:23:16 [INFO] api: job finished
+2026-09-14T05:26:29 [ERROR] api: timeout calling inventory
+2026-09-14T05:27:02 [INFO] api: connected to db
+2026-09-14T05:29:10 [INFO] api: connected to db
+2026-09-14T05:32:24 [INFO] api: request completed
+2026-09-14T05:35:41 [INFO] api: connected to db
+2026-09-14T05:37:22 [WARN] api: slow query took 2300ms
+2026-09-14T05:40:28 [INFO] api: user logged in
+2026-09-14T05:42:42 [INFO] api: request completed
+2026-09-14T05:44:24 [INFO] api: user logged in
+2026-09-14T05:45:32 [INFO] api: job finished
+2026-09-14T05:46:36 [INFO] api: request completed
+2026-09-14T05:47:33 [INFO] api: job finished
+2026-09-14T05:49:15 [WARN] api: cache miss storm
+2026-09-14T05:52:03 [INFO] api: request completed
+2026-09-14T05:52:15 [INFO] api: connected to db
+2026-09-14T05:52:55 [INFO] api: user logged in
+2026-09-14T05:53:42 [INFO] api: job finished
+2026-09-14T05:56:56 [INFO] api: job finished
+2026-09-14T05:58:00 [INFO] api: cache hit
+2026-09-14T06:01:19 [WARN] api: retrying request
+2026-09-14T06:03:04 [INFO] api: user logged in
+2026-09-14T06:04:17 [INFO] api: request completed
+2026-09-14T06:05:34 [INFO] api: request completed
+2026-09-14T06:06:19 [INFO] api: request completed
+2026-09-14T06:07:01 [INFO] api: user logged in
+2026-09-14T06:09:06 [WARN] api: slow query took 2300ms
+2026-09-14T06:10:59 [INFO] api: user logged in
+2026-09-14T06:13:35 [INFO] api: user logged in
+2026-09-14T06:14:49 [WARN] api: cache miss storm
+2026-09-14T06:17:32 [WARN] api: slow query took 2300ms
+2026-09-14T06:20:32 [INFO] api: cache hit
+2026-09-14T06:23:42 [INFO] api: user logged in
+2026-09-14T06:23:53 [INFO] api: connected to db
+2026-09-14T06:24:11 [INFO] api: job finished
+2026-09-14T06:24:32 [WARN] api: retrying request
+2026-09-14T06:25:17 [INFO] api: user logged in
+2026-09-14T06:27:33 [WARN] api: retrying request
+2026-09-14T06:28:14 [INFO] api: connected to db
+2026-09-14T06:29:27 [INFO] api: user logged in
+2026-09-14T06:29:47 [INFO] api: cache hit
+2026-09-14T06:32:40 [INFO] api: connected to db
+2026-09-14T06:34:20 [WARN] api: cache miss storm
+2026-09-14T06:34:33 [INFO] api: user logged in
+2026-09-14T06:35:37 [DEBUG] api: span started
+2026-09-14T06:38:05 [INFO] api: connected to db
+2026-09-14T06:39:38 [ERROR] api: failed to charge card
+2026-09-14T06:42:42 [INFO] api: request completed
+2026-09-14T06:45:40 [INFO] api: user logged in
+2026-09-14T06:47:21 [WARN] api: slow query took 2300ms
+2026-09-14T06:49:32 [INFO] api: user logged in
+2026-09-14T06:51:52 [DEBUG] api: span started
+2026-09-14T06:52:54 [INFO] api: request completed
+2026-09-14T06:53:08 [DEBUG] api: headers ok
+2026-09-14T06:53:37 [INFO] api: request completed
+2026-09-14T06:54:17 [DEBUG] api: payload parsed
+2026-09-14T06:56:20 [ERROR] api: failed to charge card
+2026-09-14T06:58:59 [WARN] api: cache miss storm
+2026-09-14T06:59:27 [ERROR] api: connection refused: db:5432
+2026-09-14T07:01:48 [INFO] api: cache hit
+2026-09-14T07:04:26 [INFO] api: connected to db
+2026-09-14T07:05:34 [INFO] api: cache hit
+2026-09-14T07:07:03 [WARN] api: retrying request
+2026-09-14T07:10:03 [INFO] api: job finished
+2026-09-14T07:10:28 [WARN] api: cache miss storm
+2026-09-14T07:10:51 [INFO] api: cache hit
+2026-09-14T07:12:15 [WARN] api: retrying request
+2026-09-14T07:14:01 [INFO] api: job finished
+2026-09-14T07:16:35 [INFO] api: cache hit
+2026-09-14T07:18:54 [WARN] api: slow query took 2300ms
+2026-09-14T07:19:29 [INFO] api: cache hit
+2026-09-14T07:21:56 [WARN] api: slow query took 2300ms
+2026-09-14T07:22:28 [INFO] api: request completed
+2026-09-14T07:24:05 [INFO] api: job finished
+2026-09-14T07:25:55 [INFO] api: user logged in
+2026-09-14T07:27:17 [ERROR] api: timeout calling inventory
+2026-09-14T07:29:56 [WARN] api: slow query took 2300ms
+2026-09-14T07:31:38 [INFO] api: cache hit
+2026-09-14T07:33:04 [INFO] api: user logged in
+2026-09-14T07:35:35 [INFO] api: connected to db
+2026-09-14T07:38:54 [INFO] api: job finished
+2026-09-14T07:40:14 [DEBUG] api: payload parsed
+2026-09-14T07:43:16 [INFO] api: cache hit
+2026-09-14T07:44:55 [INFO] api: connected to db
+2026-09-14T07:46:15 [DEBUG] api: span started
+2026-09-14T07:48:56 [INFO] api: request completed
+2026-09-14T07:49:49 [DEBUG] api: span started
+2026-09-14T07:50:14 [INFO] api: user logged in
+2026-09-14T07:52:35 [INFO] api: cache hit
+2026-09-14T07:54:14 [INFO] api: user logged in
+2026-09-14T07:55:03 [INFO] api: cache hit
+2026-09-14T07:57:44 [INFO] api: request completed
+2026-09-14T07:59:37 [INFO] api: job finished
+2026-09-14T08:01:13 [INFO] api: request completed
+2026-09-14T08:01:40 [INFO] api: connected to db
+2026-09-14T08:04:36 [INFO] api: request completed
+2026-09-14T08:05:11 [WARN] api: retrying request
+2026-09-14T08:06:19 [INFO] api: job finished
+2026-09-14T08:06:30 [INFO] api: cache hit
+2026-09-14T08:08:43 [INFO] api: connected to db
+2026-09-14T08:11:21 [ERROR] api: failed to charge card
+2026-09-14T08:12:06 [INFO] api: job finished
+2026-09-14T08:12:51 [INFO] api: user logged in
+2026-09-14T08:15:08 [WARN] api: slow query took 2300ms
+2026-09-14T08:18:00 [INFO] api: user logged in
+2026-09-14T08:21:02 [INFO] api: connected to db
+2026-09-14T08:23:10 [DEBUG] api: span started
+2026-09-14T08:25:08 [WARN] api: slow query took 2300ms
+2026-09-14T08:26:33 [INFO] api: connected to db
+2026-09-14T08:29:34 [INFO] api: request completed
+2026-09-14T08:31:50 [DEBUG] api: span started
+2026-09-14T08:34:34 [INFO] api: connected to db
+2026-09-14T08:35:53 [INFO] api: job finished
+2026-09-14T08:37:03 [ERROR] api: timeout calling inventory
+2026-09-14T08:38:01 [DEBUG] api: payload parsed
+2026-09-14T08:38:50 [WARN] api: slow query took 2300ms
+2026-09-14T08:40:12 [WARN] api: slow query took 2300ms
+2026-09-14T08:41:42 [DEBUG] api: span started
+2026-09-14T08:41:57 [WARN] api: cache miss storm
+2026-09-14T08:44:12 [INFO] api: connected to db
+2026-09-14T08:45:48 [INFO] api: user logged in
+2026-09-14T08:46:55 [ERROR] api: timeout calling inventory
+2026-09-14T08:48:31 [INFO] api: connected to db
+2026-09-14T08:51:48 [INFO] api: connected to db
+2026-09-14T08:53:55 [DEBUG] api: span started
+2026-09-14T08:54:16 [INFO] api: connected to db
+2026-09-14T08:57:31 [INFO] api: cache hit
+2026-09-14T08:58:44 [INFO] api: job finished
+2026-09-14T08:59:24 [INFO] api: request completed
+2026-09-14T09:00:49 [DEBUG] api: span started
+2026-09-14T09:01:05 [WARN] api: cache miss storm
+2026-09-14T09:03:48 [INFO] api: job finished
+2026-09-14T09:05:54 [WARN] api: cache miss storm
+2026-09-14T09:07:33 [INFO] api: request completed
+2026-09-14T09:08:51 [INFO] api: job finished
+2026-09-14T09:10:28 [ERROR] api: timeout calling inventory
+2026-09-14T09:11:11 [INFO] api: user logged in
+2026-09-14T09:14:08 [WARN] api: retrying request
+2026-09-14T09:15:42 [INFO] api: connected to db
+2026-09-14T09:18:43 [INFO] api: user logged in
+2026-09-14T09:19:31 [INFO] api: cache hit
+2026-09-14T09:22:46 [INFO] api: user logged in
+2026-09-14T09:24:44 [ERROR] api: timeout calling inventory
+2026-09-14T09:25:01 [INFO] api: connected to db
+2026-09-14T09:26:25 [INFO] api: connected to db
+2026-09-14T09:27:27 [INFO] api: user logged in
+2026-09-14T09:30:06 [INFO] api: connected to db
+2026-09-14T09:30:31 [INFO] api: user logged in
+2026-09-14T09:30:42 [INFO] api: request completed
+2026-09-14T09:31:54 [WARN] api: retrying request
+2026-09-14T09:32:10 [INFO] api: job finished
+2026-09-14T09:33:46 [WARN] api: cache miss storm
+2026-09-14T09:36:17 [INFO] api: job finished
+2026-09-14T09:38:38 [DEBUG] api: headers ok
+2026-09-14T09:39:07 [WARN] api: cache miss storm
+2026-09-14T09:39:40 [INFO] api: job finished
+2026-09-14T09:41:40 [INFO] api: request completed
+2026-09-14T09:44:55 [ERROR] api: timeout calling inventory
+2026-09-14T09:47:47 [DEBUG] api: headers ok
+2026-09-14T09:50:13 [INFO] api: user logged in
+2026-09-14T09:52:23 [INFO] api: connected to db
+2026-09-14T09:54:56 [INFO] api: job finished
+2026-09-14T09:55:48 [INFO] api: request completed
+2026-09-14T09:56:35 [INFO] api: job finished
+2026-09-14T09:58:31 [INFO] api: cache hit
+2026-09-14T10:00:31 [INFO] api: job finished
+2026-09-14T10:03:13 [INFO] api: connected to db
+2026-09-14T10:03:58 [DEBUG] api: headers ok
+2026-09-14T10:06:16 [INFO] api: request completed
+2026-09-14T10:06:41 [DEBUG] api: headers ok
+2026-09-14T10:09:04 [ERROR] api: failed to charge card
+2026-09-14T10:12:07 [INFO] api: request completed
+2026-09-14T10:14:34 [INFO] api: user logged in
+2026-09-14T10:17:51 [INFO] api: request completed

@@ -1,0 +1,11 @@
+groups:
+  - name: app
+    rules:
+      - alert: AppDown
+        expr: up{job="app"} == 0
+        for: 15s
+        labels:
+          severity: critical
+        annotations:
+          summary: "App target {{ $labels.instance }} is down"
+          description: "Prometheus has failed to scrape {{ $labels.instance }} for over 15 seconds."

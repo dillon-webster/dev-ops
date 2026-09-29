@@ -1,0 +1,4 @@
+groups:
+  - name: app
+    rules: []
+    # TODO: replace `[]` with a list holding an alert named AppDown

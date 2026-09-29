@@ -1,0 +1,29 @@
+name: devops-lab03
+
+services:
+  web:
+    build: ../../app
+    ports:
+      - "8300:8000"
+    environment:
+      REDIS_HOST: cache            # the service name is the hostname
+      GREETING: ${GREETING}        # read from .env next to this file
+    depends_on:
+      cache:
+        condition: service_healthy
+    restart: unless-stopped
+
+  cache:
+    image: redis:7-alpine
+    command: ["redis-server", "--appendonly", "yes"]
+    volumes:
+      - redis-data:/data
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 5s
+      timeout: 3s
+      retries: 5
+    restart: unless-stopped
+
+volumes:
+  redis-data:

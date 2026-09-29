@@ -1,0 +1,14 @@
+global:
+  scrape_interval: 5s       # how often to pull metrics from each target
+  evaluation_interval: 5s   # how often to check alert rules
+
+rule_files:
+  - alerts.yml
+
+scrape_configs:
+  # Prometheus scraping itself (inside its own container, so localhost is correct here).
+  - job_name: prometheus
+    static_configs:
+      - targets: ["localhost:9090"]
+
+  # TODO: add a job named "app" that scrapes our web service's /metrics endpoint.

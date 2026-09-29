@@ -1,0 +1,336 @@
+2026-09-15T00:00:14 [DEBUG] worker: payload parsed
+2026-09-15T00:00:30 [DEBUG] worker: payload parsed
+2026-09-15T00:00:42 [INFO] worker: connected to db
+2026-09-15T00:02:18 [INFO] worker: job finished
+2026-09-15T00:05:04 [INFO] worker: cache hit
+2026-09-15T00:07:42 [info] worker: job finished
+2026-09-15T00:10:39 [info] worker: connected to db
+2026-09-15T00:11:45 [info] worker: cache hit
+2026-09-15T00:13:18 [INFO] worker: job finished
+2026-09-15T00:13:42 [INFO] worker: cache hit
+2026-09-15T00:15:01 [debug] worker: headers ok
+2026-09-15T00:17:54 [INFO] worker: user logged in
+2026-09-15T00:19:04 [info] worker: cache hit
+2026-09-15T00:21:45 [info] worker: user logged in
+2026-09-15T00:22:45 [WARN] worker: slow query took 2300ms
+2026-09-15T00:26:02 [info] worker: cache hit
+2026-09-15T00:26:40 [info] worker: request completed
+2026-09-15T00:27:58 [info] worker: request completed
+2026-09-15T00:29:17 [DEBUG] worker: payload parsed
+2026-09-15T00:29:39 [INFO] worker: cache hit
+2026-09-15T00:31:16 [info] worker: connected to db
+2026-09-15T00:31:46 [INFO] worker: cache hit
+2026-09-15T00:35:00 [info] worker: user logged in
+2026-09-15T00:37:00 [debug] worker: payload parsed
+2026-09-15T00:37:21 [ERROR] worker: failed to charge card
+2026-09-15T00:40:16 [info] worker: connected to db
+2026-09-15T00:43:15 [INFO] worker: request completed
+2026-09-15T00:44:39 [WARN] worker: slow query took 2300ms
+2026-09-15T00:47:42 [info] worker: job finished
+2026-09-15T00:48:25 [DEBUG] worker: headers ok
+2026-09-15T00:49:07 [WARN] worker: slow query took 2300ms
+2026-09-15T00:50:51 [info] worker: request completed
+2026-09-15T00:52:34 [info] worker: job finished
+2026-09-15T00:55:36 [info] worker: cache hit
+2026-09-15T00:58:00 [debug] worker: payload parsed
+2026-09-15T00:58:58 [INFO] worker: request completed
+2026-09-15T01:02:10 [info] worker: job finished
+2026-09-15T01:03:14 [info] worker: user logged in
+2026-09-15T01:05:56 [WARN] worker: slow query took 2300ms
+2026-09-15T01:07:03 [INFO] worker: request completed
+2026-09-15T01:08:51 [INFO] worker: user logged in
+2026-09-15T01:11:47 [warn] worker: cache miss storm
+2026-09-15T01:14:14 [INFO] worker: request completed
+2026-09-15T01:14:37 [INFO] worker: connected to db
+2026-09-15T01:16:10 [WARN] worker: slow query took 2300ms
+2026-09-15T01:16:37 [debug] worker: headers ok
+2026-09-15T01:17:29 [INFO] worker: job finished
+2026-09-15T01:19:59 [INFO] worker: connected to db
+2026-09-15T01:21:37 [INFO] worker: user logged in
+2026-09-15T01:24:49 [info] worker: user logged in
+2026-09-15T01:27:20 [INFO] worker: job finished
+2026-09-15T01:29:49 [info] worker: user logged in
+2026-09-15T01:31:09 [ERROR] worker: timeout calling inventory
+2026-09-15T01:34:17 [debug] worker: span started
+2026-09-15T01:35:55 [info] worker: connected to db
+2026-09-15T01:39:12 [INFO] worker: job finished
+2026-09-15T01:39:40 [ERROR] worker: connection refused: db:5432
+2026-09-15T01:40:45 [INFO] worker: user logged in
+2026-09-15T01:42:09 [DEBUG] worker: span started
+2026-09-15T01:43:41 [info] worker: user logged in
+2026-09-15T01:46:48 [INFO] worker: connected to db
+2026-09-15T01:47:47 [INFO] worker: user logged in
+2026-09-15T01:49:14 [info] worker: job finished
+2026-09-15T01:52:12 [info] worker: job finished
+2026-09-15T01:54:57 [warn] worker: cache miss storm
+2026-09-15T01:56:46 [INFO] worker: job finished
+2026-09-15T01:57:45 [debug] worker: span started
+2026-09-15T02:00:22 [info] worker: request completed
+2026-09-15T02:03:31 [INFO] worker: request completed
+2026-09-15T02:06:17 [info] worker: job finished
+2026-09-15T02:08:20 [INFO] worker: request completed
+2026-09-15T02:09:28 [info] worker: cache hit
+2026-09-15T02:11:10 [info] worker: connected to db
+2026-09-15T02:11:44 [debug] worker: span started
+2026-09-15T02:12:40 [info] worker: job finished
+2026-09-15T02:13:51 [INFO] worker: job finished
+2026-09-15T02:17:07 [info] worker: connected to db
+2026-09-15T02:17:37 [WARN] worker: retrying request
+2026-09-15T02:18:07 [INFO] worker: connected to db
+2026-09-15T02:20:35 [ERROR] worker: timeout calling inventory
+2026-09-15T02:23:55 [debug] worker: payload parsed
+2026-09-15T02:26:08 [error] worker: timeout calling inventory
+2026-09-15T02:26:47 [INFO] worker: connected to db
+2026-09-15T02:29:52 [INFO] worker: job finished
+2026-09-15T02:32:14 [info] worker: cache hit
+2026-09-15T02:35:06 [INFO] worker: cache hit
+2026-09-15T02:35:47 [info] worker: cache hit
+2026-09-15T02:36:48 [info] worker: cache hit
+2026-09-15T02:39:47 [INFO] worker: user logged in
+2026-09-15T02:40:19 [info] worker: cache hit
+2026-09-15T02:41:48 [info] worker: cache hit
+2026-09-15T02:44:21 [warn] worker: slow query took 2300ms
+2026-09-15T02:46:54 [INFO] worker: cache hit
+2026-09-15T02:49:54 [INFO] worker: request completed
+2026-09-15T02:50:24 [INFO] worker: job finished
+2026-09-15T02:51:25 [DEBUG] worker: headers ok
+2026-09-15T02:51:46 [info] worker: user logged in
+2026-09-15T02:54:34 [INFO] worker: user logged in
+2026-09-15T02:57:52 [warn] worker: slow query took 2300ms
+2026-09-15T02:58:56 [INFO] worker: cache hit
+2026-09-15T03:01:52 [debug] worker: span started
+2026-09-15T03:04:22 [debug] worker: headers ok
+2026-09-15T03:04:55 [INFO] worker: connected to db
+2026-09-15T03:05:16 [debug] worker: span started
+2026-09-15T03:07:46 [INFO] worker: request completed
+2026-09-15T03:08:47 [warn] worker: cache miss storm
+2026-09-15T03:11:35 [INFO] worker: request completed
+2026-09-15T03:14:48 [debug] worker: span started
+2026-09-15T03:15:04 [info] worker: request completed
+2026-09-15T03:17:58 [ERROR] worker: failed to charge card
+2026-09-15T03:19:49 [info] worker: user logged in
+2026-09-15T03:21:38 [error] worker: failed to charge card
+2026-09-15T03:24:13 [info] worker: connected to db
+2026-09-15T03:24:36 [ERROR] worker: connection refused: db:5432
+2026-09-15T03:25:51 [debug] worker: span started
+2026-09-15T03:27:37 [INFO] worker: cache hit
+2026-09-15T03:28:09 [WARN] worker: slow query took 2300ms
+2026-09-15T03:30:15 [error] worker: failed to charge card
+2026-09-15T03:31:51 [DEBUG] worker: span started
+2026-09-15T03:34:01 [DEBUG] worker: payload parsed
+2026-09-15T03:35:11 [debug] worker: payload parsed
+2026-09-15T03:38:26 [info] worker: request completed
+2026-09-15T03:41:39 [INFO] worker: cache hit
+2026-09-15T03:44:35 [INFO] worker: user logged in
+2026-09-15T03:47:18 [warn] worker: slow query took 2300ms
+2026-09-15T03:48:53 [ERROR] worker: connection refused: db:5432
+2026-09-15T03:49:59 [info] worker: user logged in
+2026-09-15T03:52:51 [info] worker: request completed
+2026-09-15T03:54:33 [DEBUG] worker: payload parsed
+2026-09-15T03:55:55 [INFO] worker: cache hit
+2026-09-15T03:57:38 [DEBUG] worker: payload parsed
+2026-09-15T03:59:19 [INFO] worker: cache hit
+2026-09-15T03:59:40 [INFO] worker: user logged in
+2026-09-15T04:02:47 [WARN] worker: slow query took 2300ms
+2026-09-15T04:03:40 [info] worker: request completed
+2026-09-15T04:06:19 [debug] worker: payload parsed
+2026-09-15T04:08:00 [info] worker: user logged in
+2026-09-15T04:10:53 [info] worker: connected to db
+2026-09-15T04:11:30 [info] worker: job finished
+2026-09-15T04:14:21 [INFO] worker: job finished
+2026-09-15T04:17:35 [debug] worker: span started
+2026-09-15T04:19:52 [warn] worker: retrying request
+2026-09-15T04:22:31 [INFO] worker: request completed
+2026-09-15T04:24:02 [info] worker: request completed
+2026-09-15T04:24:22 [warn] worker: retrying request
+2026-09-15T04:27:00 [info] worker: job finished
+2026-09-15T04:29:34 [debug] worker: payload parsed
+2026-09-15T04:31:13 [info] worker: cache hit
+2026-09-15T04:34:18 [INFO] worker: user logged in
+2026-09-15T04:36:45 [WARN] worker: retrying request
+2026-09-15T04:38:47 [INFO] worker: connected to db
+2026-09-15T04:40:00 [INFO] worker: job finished
+2026-09-15T04:40:56 [info] worker: connected to db
+2026-09-15T04:43:47 [ERROR] worker: failed to charge card
+2026-09-15T04:44:06 [info] worker: cache hit
+2026-09-15T04:46:42 [info] worker: job finished
+2026-09-15T04:49:55 [debug] worker: headers ok
+2026-09-15T04:50:43 [INFO] worker: user logged in
+2026-09-15T04:52:13 [INFO] worker: connected to db
+2026-09-15T04:54:23 [INFO] worker: job finished
+2026-09-15T04:57:32 [info] worker: request completed
+2026-09-15T05:00:14 [INFO] worker: request completed
+2026-09-15T05:02:50 [INFO] worker: user logged in
+2026-09-15T05:03:35 [INFO] worker: user logged in
+2026-09-15T05:04:24 [debug] worker: span started
+2026-09-15T05:06:44 [info] worker: cache hit
+2026-09-15T05:07:08 [info] worker: request completed
+2026-09-15T05:07:44 [debug] worker: span started
+2026-09-15T05:10:48 [info] worker: request completed
+2026-09-15T05:11:03 [INFO] worker: request completed
+2026-09-15T05:13:53 [INFO] worker: user logged in
+2026-09-15T05:15:28 [INFO] worker: connected to db
+2026-09-15T05:17:02 [INFO] worker: user logged in
+2026-09-15T05:17:58 [INFO] worker: request completed
+2026-09-15T05:19:01 [DEBUG] worker: headers ok
+2026-09-15T05:21:59 [INFO] worker: request completed
+2026-09-15T05:24:00 [info] worker: user logged in
+2026-09-15T05:27:05 [info] worker: connected to db
+2026-09-15T05:28:32 [error] worker: failed to charge card
+2026-09-15T05:29:17 [error] worker: timeout calling inventory
+2026-09-15T05:30:12 [info] worker: connected to db
+2026-09-15T05:31:02 [info] worker: request completed
+2026-09-15T05:33:17 [error] worker: failed to charge card
+2026-09-15T05:36:20 [info] worker: request completed
+2026-09-15T05:37:15 [info] worker: user logged in
+2026-09-15T05:37:50 [WARN] worker: cache miss storm
+2026-09-15T05:38:12 [WARN] worker: slow query took 2300ms
+2026-09-15T05:40:28 [INFO] worker: user logged in
+2026-09-15T05:43:31 [INFO] worker: request completed
+2026-09-15T05:46:03 [INFO] worker: user logged in
+2026-09-15T05:49:11 [debug] worker: payload parsed
+2026-09-15T05:50:58 [INFO] worker: job finished
+2026-09-15T05:54:03 [INFO] worker: request completed
+2026-09-15T05:56:18 [INFO] worker: request completed
+2026-09-15T05:57:16 [WARN] worker: retrying request
+2026-09-15T05:59:13 [INFO] worker: connected to db
+2026-09-15T06:02:19 [INFO] worker: job finished
+2026-09-15T06:04:06 [ERROR] worker: timeout calling inventory
+2026-09-15T06:04:20 [INFO] worker: job finished
+2026-09-15T06:04:47 [INFO] worker: job finished
+2026-09-15T06:07:37 [INFO] worker: user logged in
+2026-09-15T06:10:42 [warn] worker: slow query took 2300ms
+2026-09-15T06:11:32 [INFO] worker: job finished
+2026-09-15T06:12:22 [warn] worker: cache miss storm
+2026-09-15T06:13:33 [INFO] worker: request completed
+2026-09-15T06:15:46 [INFO] worker: connected to db
+2026-09-15T06:16:30 [warn] worker: retrying request
+2026-09-15T06:17:41 [INFO] worker: job finished
+2026-09-15T06:19:00 [error] worker: failed to charge card
+2026-09-15T06:21:02 [info] worker: request completed
+2026-09-15T06:22:32 [INFO] worker: job finished
+2026-09-15T06:23:52 [INFO] worker: user logged in
+2026-09-15T06:24:34 [info] worker: connected to db
+2026-09-15T06:26:19 [ERROR] worker: failed to charge card
+2026-09-15T06:27:54 [INFO] worker: connected to db
+2026-09-15T06:30:39 [DEBUG] worker: payload parsed
+2026-09-15T06:31:51 [INFO] worker: connected to db
+2026-09-15T06:34:28 [WARN] worker: cache miss storm
+2026-09-15T06:35:42 [DEBUG] worker: span started
+2026-09-15T06:36:46 [error] worker: timeout calling inventory
+2026-09-15T06:37:47 [info] worker: request completed
+2026-09-15T06:39:46 [error] worker: timeout calling inventory
+2026-09-15T06:42:48 [debug] worker: payload parsed
+2026-09-15T06:45:05 [INFO] worker: connected to db
+2026-09-15T06:48:16 [info] worker: job finished
+2026-09-15T06:49:24 [INFO] worker: user logged in
+2026-09-15T06:51:51 [WARN] worker: cache miss storm
+2026-09-15T06:53:10 [debug] worker: payload parsed
+2026-09-15T06:53:56 [INFO] worker: job finished
+2026-09-15T06:57:16 [INFO] worker: job finished
+2026-09-15T07:00:09 [INFO] worker: request completed
+2026-09-15T07:02:01 [info] worker: cache hit
+2026-09-15T07:04:20 [WARN] worker: cache miss storm
+2026-09-15T07:04:43 [INFO] worker: request completed
+2026-09-15T07:05:38 [WARN] worker: slow query took 2300ms
+2026-09-15T07:08:36 [info] worker: connected to db
+2026-09-15T07:09:14 [WARN] worker: cache miss storm
+2026-09-15T07:10:18 [info] worker: user logged in
+2026-09-15T07:10:28 [INFO] worker: user logged in
+2026-09-15T07:11:11 [ERROR] worker: failed to charge card
+2026-09-15T07:11:35 [INFO] worker: connected to db
+2026-09-15T07:14:52 [warn] worker: cache miss storm
+2026-09-15T07:17:43 [info] worker: user logged in
+2026-09-15T07:20:36 [error] worker: failed to charge card
+2026-09-15T07:21:29 [debug] worker: payload parsed
+2026-09-15T07:24:43 [DEBUG] worker: headers ok
+2026-09-15T07:25:59 [info] worker: job finished
+2026-09-15T07:28:14 [INFO] worker: request completed
+2026-09-15T07:28:48 [info] worker: connected to db
+2026-09-15T07:31:58 [info] worker: cache hit
+2026-09-15T07:34:32 [info] worker: connected to db
+2026-09-15T07:36:24 [INFO] worker: job finished
+2026-09-15T07:39:13 [error] worker: connection refused: db:5432
+2026-09-15T07:41:38 [INFO] worker: connected to db
+2026-09-15T07:43:11 [INFO] worker: job finished
+2026-09-15T07:43:42 [INFO] worker: request completed
+2026-09-15T07:44:11 [info] worker: cache hit
+2026-09-15T07:47:17 [INFO] worker: cache hit
+2026-09-15T07:49:54 [info] worker: cache hit
+2026-09-15T07:50:08 [info] worker: cache hit
+2026-09-15T07:51:22 [INFO] worker: job finished
+2026-09-15T07:51:58 [info] worker: user logged in
+2026-09-15T07:53:15 [INFO] worker: job finished
+2026-09-15T07:55:17 [info] worker: cache hit
+2026-09-15T07:57:53 [info] worker: connected to db
+2026-09-15T08:00:46 [warn] worker: cache miss storm
+2026-09-15T08:01:55 [INFO] worker: job finished
+2026-09-15T08:04:13 [INFO] worker: request completed
+2026-09-15T08:04:55 [debug] worker: headers ok
+2026-09-15T08:06:01 [info] worker: connected to db
+2026-09-15T08:09:12 [info] worker: user logged in
+2026-09-15T08:10:39 [INFO] worker: request completed
+2026-09-15T08:11:23 [info] worker: request completed
+2026-09-15T08:14:11 [info] worker: user logged in
+2026-09-15T08:17:03 [info] worker: cache hit
+2026-09-15T08:17:52 [DEBUG] worker: payload parsed
+2026-09-15T08:19:36 [DEBUG] worker: headers ok
+2026-09-15T08:20:19 [warn] worker: slow query took 2300ms
+2026-09-15T08:21:59 [debug] worker: headers ok
+2026-09-15T08:24:32 [WARN] worker: slow query took 2300ms
+2026-09-15T08:26:27 [WARN] worker: cache miss storm
+2026-09-15T08:27:57 [INFO] worker: user logged in
+2026-09-15T08:31:11 [INFO] worker: request completed
+2026-09-15T08:32:42 [INFO] worker: job finished
+2026-09-15T08:33:06 [warn] worker: retrying request
+2026-09-15T08:34:30 [INFO] worker: connected to db
+2026-09-15T08:34:55 [INFO] worker: request completed
+2026-09-15T08:36:47 [info] worker: connected to db
+2026-09-15T08:39:05 [DEBUG] worker: payload parsed
+2026-09-15T08:39:45 [WARN] worker: slow query took 2300ms
+2026-09-15T08:40:44 [debug] worker: headers ok
+2026-09-15T08:42:56 [INFO] worker: connected to db
+2026-09-15T08:44:35 [INFO] worker: connected to db
+2026-09-15T08:46:35 [info] worker: job finished
+2026-09-15T08:49:02 [ERROR] worker: timeout calling inventory
+2026-09-15T08:49:41 [info] worker: connected to db
+2026-09-15T08:49:58 [DEBUG] worker: headers ok
+2026-09-15T08:52:38 [INFO] worker: connected to db
+2026-09-15T08:54:02 [info] worker: user logged in
+2026-09-15T08:55:18 [DEBUG] worker: payload parsed
+2026-09-15T08:58:06 [info] worker: request completed
+2026-09-15T09:00:47 [DEBUG] worker: payload parsed
+2026-09-15T09:01:43 [INFO] worker: user logged in
+2026-09-15T09:04:38 [DEBUG] worker: span started
+2026-09-15T09:07:00 [INFO] worker: cache hit
+2026-09-15T09:09:46 [warn] worker: cache miss storm
+2026-09-15T09:11:31 [info] worker: job finished
+2026-09-15T09:12:30 [info] worker: request completed
+2026-09-15T09:14:17 [info] worker: request completed
+2026-09-15T09:14:41 [info] worker: cache hit
+2026-09-15T09:17:30 [info] worker: request completed
+2026-09-15T09:19:59 [INFO] worker: cache hit
+2026-09-15T09:20:14 [warn] worker: slow query took 2300ms
+2026-09-15T09:22:45 [INFO] worker: user logged in
+2026-09-15T09:25:19 [info] worker: cache hit
+2026-09-15T09:28:31 [INFO] worker: user logged in
+2026-09-15T09:31:43 [info] worker: job finished
+2026-09-15T09:34:28 [INFO] worker: request completed
+2026-09-15T09:37:11 [info] worker: user logged in
+2026-09-15T09:37:54 [INFO] worker: request completed
+2026-09-15T09:38:17 [info] worker: connected to db
+2026-09-15T09:40:12 [info] worker: cache hit
+2026-09-15T09:43:03 [info] worker: connected to db
+2026-09-15T09:46:12 [info] worker: request completed
+2026-09-15T09:48:47 [warn] worker: slow query took 2300ms
+2026-09-15T09:51:17 [INFO] worker: connected to db
+2026-09-15T09:52:27 [ERROR] worker: failed to charge card
+2026-09-15T09:55:36 [ERROR] worker: failed to charge card
+2026-09-15T09:57:06 [INFO] worker: connected to db
+2026-09-15T09:57:18 [INFO] worker: request completed
+2026-09-15T09:58:44 [debug] worker: payload parsed
+2026-09-15T09:59:44 [INFO] worker: user logged in
+2026-09-15T10:01:50 [info] worker: job finished
+2026-09-15T10:05:04 [DEBUG] worker: payload parsed
+2026-09-15T10:06:23 [INFO] worker: request completed
+2026-09-15T10:08:05 [ERROR] worker: connection refused: db:5432

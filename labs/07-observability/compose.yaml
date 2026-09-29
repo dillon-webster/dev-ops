@@ -1,0 +1,41 @@
+# Lab 07: the wiring is done for you. Your work is in prometheus/ and grafana/.
+name: devops-lab07
+
+services:
+  web:
+    build: ../../app
+    ports:
+      - "8700:8000"
+    environment:
+      REDIS_HOST: cache
+    depends_on:
+      cache:
+        condition: service_healthy
+
+  cache:
+    image: redis:7-alpine
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 5s
+      retries: 5
+
+  prometheus:
+    image: prom/prometheus:v3.5.0
+    ports:
+      - "9700:9090"
+    volumes:
+      - ./prometheus:/etc/prometheus:ro
+
+  grafana:
+    image: grafana/grafana:12.2.0
+    ports:
+      - "3700:3000"
+    environment:
+      # Local practice only: skip the login screen.
+      GF_AUTH_ANONYMOUS_ENABLED: "true"
+      GF_AUTH_ANONYMOUS_ORG_ROLE: Admin
+      GF_AUTH_DISABLE_LOGIN_FORM: "true"
+    volumes:
+      - ./grafana/provisioning:/etc/grafana/provisioning:ro
+    depends_on:
+      - prometheus

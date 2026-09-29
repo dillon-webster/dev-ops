@@ -1,0 +1,13 @@
+# Lab 03: this file has problems. Read the README.
+name: devops-lab03
+
+services:
+  web:
+    build: ../../app
+    ports:
+      - "8000"
+    environment:
+      REDIS_HOST: localhost
+
+  cache:
+    image: redis:7-alpine
